@@ -82,6 +82,8 @@ text-indent: clamp(0px,60.4px,5vw);
     height: clamp(0px,42.28px,3.5vw);
     border-radius: 6px;
     border: none;
+}
+#search{
     color: white;
 }
 
